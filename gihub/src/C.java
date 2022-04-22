@@ -7,6 +7,6 @@ public class C
 	@Test
 public void gg() 
 {
-
+syso
 }
 }
